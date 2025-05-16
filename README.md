@@ -38,4 +38,13 @@ It provides core banking features like money transfers, digital wallets, cashbac
    git clone https://github.com/tejaswinidumbare/momentum-banking-app.git
 
 
-<pre> <code> ```text momentum-banking-app │ ├── eureka-server ├── api-gateway ├── user-service ├── wallet-service ├── transaction-service ├── cashback-service ├── notification-service └── README.md ``` </code> </pre>
+momentum-banking-app
+│
+├── eureka-server
+├── api-gateway
+├── user-service
+├── wallet-service
+├── transaction-service
+├── cashback-service
+├── notification-service
+└── README.md
